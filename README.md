@@ -54,7 +54,7 @@ L’application propose des interfaces adaptées aux différents profils :
 
 <p align="center">
   <img src="images/login.png" width="200" alt="Login">
-  <img src="images/accueil.png" width="200" alt="Accueil">
+  <img src="images/acceuil.png" width="200" alt="Accueil">
 </p>
 
 ### Espaces Utilisateurs
